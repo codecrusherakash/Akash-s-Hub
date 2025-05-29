@@ -1,4 +1,4 @@
 # Akash
-This is my first GitHub Repository.
+My New GitHub Repository.
 <br>
 Author=Akash Shetty
