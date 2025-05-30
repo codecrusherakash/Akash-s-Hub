@@ -37,7 +37,5 @@ Frontend Web Dev Roadmap
 Thanks to the creators of free learning content and my own determination to keep growing every day.
 
 📬 Connect with Me
-
-GitHub:https
-
-LinkedIn:
+LinkedIn:https://www.linkedin.com/in/codecrusherakash
+Email:akashpcwork01@gmail.com
